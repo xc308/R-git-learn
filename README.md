@@ -22,6 +22,8 @@
 ### Thinking:
 - with the initialization in R terminal, the file - version control is the same as the above steps, so might be a redundant. 
 
+- is it possible to run different versions of simulations on different branches on different laptops simultaneously?
+
 
 
 
