@@ -45,4 +45,4 @@
 
 
 ### (Additional section) 
-
+![a pic](https://github.com/xc308/R-git-learn/blob/update/image/屏幕快照%202019-12-29%2020.29.06.png "This is a pic took in Cambridge |width = 400)
