@@ -25,7 +25,14 @@
 - is it possible to run different versions of simulations on different branches on different laptops simultaneously?
 
 
-### Let's try on another laptop
+
+### Let's try on another laptop：
+
+- log in git hub on another laptop
+- clone the adress
+- on local terminal git clone address
+- 
+
 
 
 
