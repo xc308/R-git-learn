@@ -24,7 +24,6 @@
 
 - is it possible to run different versions of simulations on different branches on different laptops simultaneously?
 
-#### Time to finish the project on coursera
 
 
 ### Let's try on another laptop
@@ -39,5 +38,6 @@
 
 
 
+#### Time to finish the project on coursera
 
 
