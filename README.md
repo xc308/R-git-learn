@@ -25,6 +25,7 @@
 - is it possible to run different versions of simulations on different branches on different laptops simultaneously?
 
 
+
 ### Let's try on another laptop
 
 - log in git hub on another laptop
@@ -37,5 +38,6 @@
 
 
 
+#### Time to finish the project on coursera
 
 
