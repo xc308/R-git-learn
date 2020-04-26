@@ -1,4 +1,4 @@
-Steps to connect R files with git
+#Steps to connect R files with git
 
 ### In git hub:
 - create a new repository R-git-learn
@@ -15,6 +15,7 @@ Steps to connect R files with git
 - git push -u origin master    **to first push all local commits to remote repo and set up a remote master branch**
 
 
-In R studio:
+###In R studio:
 - File - new repository - copy the github address - set subdirectory on local
+
 
