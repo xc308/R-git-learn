@@ -39,5 +39,8 @@
 
 
 ### Time to finish the project on coursera
+1. finish the one project
+2. finish peer review
+3. skip the cloud computing part -- sorry no certificate then
 
 
