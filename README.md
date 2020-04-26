@@ -1,4 +1,4 @@
-#Steps to connect R files with git
+# Steps to connect R files with git
 
 ### In git hub:
 - create a new repository R-git-learn
@@ -9,13 +9,19 @@
 - create a local directory: mkdir R-git-learn
 - cd R-git-learn
 - git init
+- echo "Steps to connect R files with git" > README.md
 - git add -A
 - git commit -m "add first commit"
-- git remote add origin https://github.com/xc308/R-git-learn.git   **to connect local repo with the remote one on github**
-- git push -u origin master    **to first push all local commits to remote repo and set up a remote master branch**
+- git remote add origin https://github.com/xc308/R-git-learn.git   *to connect local repo with the remote one on github*
+- git push -u origin master    *to first push all local commits to remote repo and set up a remote master branch*
 
 
-###In R studio:
-- File - new repository - copy the github address - set subdirectory on local
+### In R studio:
+- File - new repository - version control - copy the github address - set subdirectory on local
+
+### Thinking:
+- with the initialization in R terminal, the file - version control is the same as the above steps, so might be a redundant. 
+
+
 
 
